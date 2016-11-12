@@ -65,7 +65,6 @@ public class UpdateService extends Service {
     private static String URL_ICBC_SUMMARY =
             "http://m.icbc.com.cn/WapDynamicSite/Windroid/GoldMarket/AccResponse.aspx";
 
-
     private GoldElement mGoldElements[] = new GoldElement[8];
     private Date mCurrDate;
     int mNotifyType = 1;
